@@ -1,0 +1,5 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Lucky Number Guess.js" type="NodeJSConfigurationType" path-to-node="$APPLICATION_CONFIG_DIR$/node/versions/22.15.0/node" nameIsGenerated="true" path-to-js-file="Lucky Number Guess.js" working-dir="$PROJECT_DIR$">
+    <method v="2" />
+  </configuration>
+</component>
